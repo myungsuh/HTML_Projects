@@ -1,0 +1,47 @@
+body {background-color:powderblue;}
+h1 {
+  color:green;
+  font-family:verdana;
+  font-size:200%;
+}
+p {
+  border: 1px solid red;
+  padding:30px;
+  margin:50px;
+  color:yellow;
+  font-family:courier;
+  font-size:130%;
+}
+
+#p01 {
+  color:red;
+}
+
+p.error{
+  color:red;
+  padding:20px;
+}
+
+a:link {
+    color: blue;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:visited {
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:hover {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+a:active {
+    color: green;
+    background-color: transparent;
+    text-decoration: underline;
+}
